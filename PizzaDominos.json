@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "images": "https://images.dominos.co.in/Corn.jpg",
+      "price": 179,
+      "pizzaHeading": "Corn n Cheese Paratha Pizza",
+      "pizzaContent": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+      "pizzaSize": "Regular",
+      "pizzaType": "100% Wheat Thin Crust"
+    },
+    {
+      "images": "https://images.dominos.co.in/Paneer.jpg",
+      "price": 209,
+      "pizzaHeading": "Paneer Parantha Pizza",
+      "pizzaContent": "An epic fusion of paratha and pizza with melting cheese & soft paneer fillings to satisfy all your indulgent...",
+      "pizzaSize": "Regular",
+      "pizzaType": "100% Wheat Thin Crust"
+    },
+    {
+      "images": "https://images.dominos.co.in/Keema.jpg",
+      "price": 279,
+      "pizzaHeading": "Chicken Keema Parantha Pizza",
+      "pizzaContent": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic...",
+      "pizzaSize": "Regular",
+      "pizzaType": "100% Wheat Thin Crust"
+    },
+    {
+      "images": "https://images.dominos.co.in/PIZ0171.jpg",
+      "price": 639,
+      "pizzaHeading": "The 4 Cheese Pizza",
+      "pizzaContent": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza..",
+      "pizzaSize": "Medium",
+      "pizzaType": "New Hand Tossed"
+    },
+    {
+      "images": "https://images.dominos.co.in/new_margherita_2502.jpg",
+      "price": 239,
+      "pizzaHeading": "Margherita",
+      "pizzaContent": "Classic delight with 100% real mozzarella cheese",
+      "pizzaSize": "Medium",
+      "pizzaType": "New Hand Tossed"
+    },
+    {
+      "images": "https://images.dominos.co.in/farmhouse.png",
+      "price": 459,
+      "pizzaHeading": "Farmhouse",
+      "pizzaContent": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+      "pizzaSize": "Medium",
+      "pizzaType": "New Hand Tossed"
+    }
+  ]
+}
