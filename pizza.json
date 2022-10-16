@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "images": "https://images.dominos.co.in/Corn.jpg",
+      "price": 100,
+      "pizzaHeading": "Corn n Cheese Paratha Pizza",
+      "pizzaContent": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+      "pizzaSize": "Regular",
+      "pizzaType": "100% Wheat Thin Crust"
+    },
+    {
+      "images": "https://images.dominos.co.in/Corn.jpg",
+      "price": 100,
+      "pizzaHeading": "Corn n Cheese Paratha Pizza",
+      "pizzaContent": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+      "pizzaSize": "Regular",
+      "pizzaType": "100% Wheat Thin Crust"
+    }
+  ]
+}
