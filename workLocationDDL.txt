@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Grand Rapids, MI",
+    "value": 1
+  },
+  {
+    "text": "Allyn, WA",
+    "value": 2
+  },
+  {
+    "text": "Kimper, KY",
+    "value": 3
+  },
+  {
+    "text": "Lancaster, PA",
+    "value": 4
+  },
+  {
+    "text": "Muncy, PA",
+    "value": 5
+  },
+  {
+    "text": "Omaha, NE",
+    "value": 6
+  }
+]
