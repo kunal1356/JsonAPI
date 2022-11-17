@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Financial Analyst",
+    "value": 1
+  },
+  {
+    "text": "Admin/Accounting Assistant - Grand Rapids MI",
+    "value": 2
+  },
+  {
+    "text": "Administrative Assistant",
+    "value": 3
+  },
+  {
+    "text": "Human Resources Clerk",
+    "value": 4
+  },
+  {
+    "text": "Procurement Clerk",
+    "value": 5
+  },
+  {
+    "text": "Production Admin/Scheduler",
+    "value": 6
+  },
+  {
+    "text": "Purchasing Clerical - Materials",
+    "value": 7
+  },
+  {
+    "text": "Safety Admin Support",
+    "value": 8
+  }
+]
