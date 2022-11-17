@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Accounting Finance",
+    "value": 1
+  },
+  {
+    "text": "Administrative Clerical",
+    "value": 2
+  },
+  {
+    "text": "Corporate Professional Other",
+    "value": 3
+  },
+  {
+    "text": "Engineering",
+    "value": 4
+  },
+  {
+    "text": "Industrial Trades",
+    "value": 5
+  },
+  {
+    "text": "Information Technology",
+    "value": 6
+  },
+  {
+    "text": "Manufacturing Operations",
+    "value": 7
+  }
+]
