@@ -64,22 +64,22 @@
   { 
     "data": [
       {
-        "field":'country',
-        "old_val":'USA',
-        "new_val":'UK',
-        "tab_name":'Sector-Details'
+        "field": "country",
+        "old_val": "USA",
+        "new_val": "UK",
+        "tab_name": "Sector-Details"
       },
       {
-        "field":'country',
-        "old_val":'USA',
-        "new_val":'UK',
-        "tab_name":'Sector-Details'
+        "field": "country",
+        "old_val": "USA",
+        "new_val": "UK",
+        "tab_name": "Sector-Details"
       },
       {
-        "field":'country',
-        "old_val":'USA',
-        "new_val":'UK',
-        "tab_name":'Sector-Details'
+        "field": "country",
+        "old_val": "USA",
+        "new_val": "UK",
+        "tab_name": "Sector-Details"
       }
     ],
     "id": "03",
@@ -95,22 +95,22 @@
   { 
     "data": [
       {
-        "field":'country',
-        "old_val":'USA',
-        "new_val":'UK',
-        "tab_name":'Sector-Details'
+        "field": "country",
+        "old_val": "USA",
+        "new_val": "UK",
+        "tab_name": "Sector-Details"
       },
       {
-        "field":'country',
-        "old_val":'USA',
-        "new_val":'UK',
-        "tab_name":'Sector-Details'
+        "field": "country",
+        "old_val": "USA",
+        "new_val": "UK",
+        "tab_name": "Sector-Details"
       },
       {
-        "field":'country',
-        "old_val":'USA',
-        "new_val":'UK',
-        "tab_name":'Sector-Details'
+        "field": "country",
+        "old_val": "USA",
+        "new_val": "UK",
+        "tab_name": "Sector-Details"
       }
     ],
     "id": "04",
