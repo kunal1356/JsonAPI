@@ -1,34 +1,23 @@
 [
   {
-    "text": "Financial Analyst",
-    "value": 1
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Admin",
+    "value": "47127ec7-4fb8-4675-a06c-96cc08064a93"
   },
   {
-    "text": "Admin/Accounting Assistant - Grand Rapids MI",
-    "value": 2
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Job test",
+    "value": "3b092dc1-75e9-4394-b63a-122df0c409fa"
   },
   {
-    "text": "Administrative Assistant",
-    "value": 3
-  },
-  {
-    "text": "Human Resources Clerk",
-    "value": 4
-  },
-  {
-    "text": "Procurement Clerk",
-    "value": 5
-  },
-  {
-    "text": "Production Admin/Scheduler",
-    "value": 6
-  },
-  {
-    "text": "Purchasing Clerical - Materials",
-    "value": 7
-  },
-  {
-    "text": "Safety Admin Support",
-    "value": 8
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "JobCatI1",
+    "value": "de8cc924-f477-48ef-898c-a6fd860e234f"
   }
 ]
