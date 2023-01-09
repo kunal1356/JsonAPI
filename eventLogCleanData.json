@@ -9,14 +9,14 @@
       "ReasonForChange": "Some Reason",
       "AuditLogs": [
         {
-          "Field ": "Code",
+          "Field": "Code",
           "OldValue": "LC100",
-          "Newvalue": "LC200"
+          "NewValue": "LC200"
         },
         {
-          "Field ": "Name",
+          "Field": "Name",
           "OldValue": "Admin",
-          "Newvalue": "Administration"
+          "NewValue": "Administration"
         }
       ]
     },
@@ -29,14 +29,14 @@
       "ReasonForChange": "Some Reason",
       "AuditLogs": [
         {
-          "Field ": "Code",
+          "Field": "Code",
           "OldValue": "LC100",
-          "Newvalue": "LC200"
+          "NewValue": "LC200"
         },
         {
-          "Field ": "Name",
+          "Field": "Name",
           "OldValue": "Admin",
-          "Newvalue": "Administration"
+          "NewValue": "Administration"
         }
       ]
     },
@@ -49,14 +49,14 @@
       "ReasonForChange": "Some Reason",
       "AuditLogs": [
         {
-          "Field ": "Code",
+          "Field": "Code",
           "OldValue": "LC100",
-          "Newvalue": "LC200"
+          "NewValue": "LC200"
         },
         {
-          "Field ": "Name",
+          "Field": "Name",
           "OldValue": "Admin",
-          "Newvalue": "Administration"
+          "NewValue": "Administration"
         }
       ]
     }
