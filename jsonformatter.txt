@@ -1,0 +1,64 @@
+{
+  "Data": [
+    {
+      "User": "Kunal",
+      "UserGroup": "Product Manager",
+      "Action": "Edit",
+      "ActionDate": "2023-01-09",
+      "Device": "iOS",
+      "ReasonForChange": "Some Reason",
+      "AuditLogs": [
+        {
+          "Field ": "Code",
+          "OldValue": "LC100",
+          "Newvalue": "LC200"
+        },
+        {
+          "Field ": "Name",
+          "OldValue": "Admin",
+          "Newvalue": "Administration"
+        }
+      ]
+    },
+    {
+      "User": "Logan",
+      "UserGroup": "MSP",
+      "Action": "Edit",
+      "ActionDate": "2023-01-09",
+      "Device": "Android",
+      "ReasonForChange": "Some Reason",
+      "AuditLogs": [
+        {
+          "Field ": "Code",
+          "OldValue": "LC100",
+          "Newvalue": "LC200"
+        },
+        {
+          "Field ": "Name",
+          "OldValue": "Admin",
+          "Newvalue": "Administration"
+        }
+      ]
+    },
+    {
+      "User": "Akshit",
+      "UserGroup": "Approver",
+      "Action": "Edit",
+      "ActionDate": "2023-01-09",
+      "Device": "Web",
+      "ReasonForChange": "Some Reason",
+      "AuditLogs": [
+        {
+          "Field ": "Code",
+          "OldValue": "LC100",
+          "Newvalue": "LC200"
+        },
+        {
+          "Field ": "Name",
+          "OldValue": "Admin",
+          "Newvalue": "Administration"
+        }
+      ]
+    }
+  ]
+}
